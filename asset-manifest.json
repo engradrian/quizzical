@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/budget-tracker/static/css/main.144bbf1e.css",
+    "main.js": "/budget-tracker/static/js/main.f9d40148.js",
+    "static/js/787.fa62f795.chunk.js": "/budget-tracker/static/js/787.fa62f795.chunk.js",
+    "static/media/tick.webp": "/budget-tracker/static/media/tick.211e9c92ef003f042ad8.webp",
+    "index.html": "/budget-tracker/index.html",
+    "static/media/cross.webp": "/budget-tracker/static/media/cross.ae8eebb64591d29dbfe0.webp",
+    "main.144bbf1e.css.map": "/budget-tracker/static/css/main.144bbf1e.css.map",
+    "main.f9d40148.js.map": "/budget-tracker/static/js/main.f9d40148.js.map",
+    "787.fa62f795.chunk.js.map": "/budget-tracker/static/js/787.fa62f795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.144bbf1e.css",
+    "static/js/main.f9d40148.js"
+  ]
+}
